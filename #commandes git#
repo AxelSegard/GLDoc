@@ -1,7 +1,10 @@
+git clone https://AxelSegard@github.com/AxelSegard/casse_bash.git
+
 git init	 // Initialiser le depot
 git add       	 // Ajouter dans la future version
 git status	 // Voir les modifications actuelles avant le commit
 git commit -a	 // commiter dans le depot
+git push   	 // Envoyer sur github.com
 
 git diff   	 // Voir les modifications détaillées 
 git log		 // affiche tous les commits
@@ -16,4 +19,11 @@ Affichez les branches ---  git branch.
 
 Revenez au premier commit ----  git checkout <commit>
 
-Créez une branche ----  git branch cli 
+Créez une branche ----  git branch cli $ g++ changeCasse.cpp
+$ ./a.out
+
+intégrez la branche es ----  git merge <branche>
+
+Créez une branche cli ----  git branch cli
+
+mettre son projet en depot distant --- git remote add origin https://AxelSegard@github.com/AxelSegard/casse.git
