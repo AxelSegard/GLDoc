@@ -1,0 +1,19 @@
+git init	 // Initialiser le depot
+git add       	 // Ajouter dans la future version
+git status	 // Voir les modifications actuelles avant le commit
+git commit -a	 // commiter dans le depot
+
+git diff   	 // Voir les modifications détaillées 
+git log		 // affiche tous les commits
+git checkout master 	    //Revenir sur la derniere version
+git reset    		    //Annuler dernier commit
+git checkout -- casseChange.cpp	      //Annuler modification courante d'un fichier
+git checkout -- .    // Annuler toutes les modifications courantes
+
+Affichez le log détaillé ---- git log --graph --decorate.
+
+Affichez les branches ---  git branch.
+
+Revenez au premier commit ----  git checkout <commit>
+
+Créez une branche ----  git branch cli 
