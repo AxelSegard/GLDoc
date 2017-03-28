@@ -1,10 +1,14 @@
 git clone https://AxelSegard@github.com/AxelSegard/casse_bash.git
 
-git init	 // Initialiser le depot
+git init	 // Initialiser le depot // Pas faire de git init dans un sous dossier, sinon caca
 git add       	 // Ajouter dans la future version
 git status	 // Voir les modifications actuelles avant le commit
 git commit -a	 // commiter dans le depot
 git push   	 // Envoyer sur github.com
+git remote set-url origin https://github.com/AxelSegard/GLDoc.git // Changer le dossier utiliser dans github
+git remote add origin https://github.com/AxelSegard/GLDoc.git
+
+
 
 git diff   	 // Voir les modifications détaillées 
 git log		 // affiche tous les commits
