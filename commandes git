@@ -25,3 +25,7 @@ $ ./a.out
 intégrez la branche es ----  git merge <branche>
 
 Créez une branche cli ----  git branch cli
+
+mettre son projet en depot distant --- git remote add origin https://AxelSegard@github.com/AxelSegard/casse.git
+
+rattacher la branche master local a la distante ---- git push -u origin master

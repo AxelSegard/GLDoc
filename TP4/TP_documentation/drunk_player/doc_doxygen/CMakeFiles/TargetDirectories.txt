@@ -1,0 +1,4 @@
+/etudiants/asegard/GL/TP4/TP_documentation/drunk_player/doc_doxygen/CMakeFiles/doc.dir
+/etudiants/asegard/GL/TP4/TP_documentation/drunk_player/doc_doxygen/CMakeFiles/drunk_player.dir
+/etudiants/asegard/GL/TP4/TP_documentation/drunk_player/doc_doxygen/CMakeFiles/drunk_player_cli.out.dir
+/etudiants/asegard/GL/TP4/TP_documentation/drunk_player/doc_doxygen/CMakeFiles/drunk_player_gui.out.dir
